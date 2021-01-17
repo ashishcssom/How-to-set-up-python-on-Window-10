@@ -55,7 +55,7 @@ Ashish Kumar
 # License
 [![MIT License](https://img.shields.io/github/license/ashishcssom/How-to-set-up-python-on-Window-10.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/How-to-set-up-python-on-Window-10/blob/main/LICENSE)
 ```
-Copyright (c) 2020 Ashish Kumar
+Copyright (c) 2021 Ashish Kumar
 ```
 
 # Contact
