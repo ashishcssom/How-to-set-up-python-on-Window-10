@@ -1,6 +1,6 @@
-        +-++-++-++-++-++-+ +-++-++-++-++-++-++-++-++-++-++-++-+ +-++-+ +-++-++-++-++-++-+
-        |p||y||t||h||o||n| |i||n||s||t||a||l||l||a||t||i||o||n| |o||n| |w||i||n||d||o||w|
-        +-++-++-++-++-++-+ +-++-++-++-++-++-++-++-++-++-++-++-+ +-++-+ +-++-++-++-++-++-+
+                          +-++-++-++-++-++-+ +-++-++-++-++-++-++-++-++-++-++-++-+ +-++-+ +-++-++-++-++-++-+
+                          |p||y||t||h||o||n| |i||n||s||t||a||l||l||a||t||i||o||n| |o||n| |w||i||n||d||o||w|
+                          +-++-++-++-++-++-+ +-++-++-++-++-++-++-++-++-++-++-++-+ +-++-+ +-++-++-++-++-++-+
 # How to setup portable python on Window 10 (64-bit)?
 > What need to download?
 1. python
@@ -16,8 +16,10 @@
 > How to setup python?
 
 To install it on your windows system, you just have to extract [it](https://www.python.org/ftp/python/3.8.7/python-3.8.7-embed-amd64.zip) on the folder that you want. For example, we extracted the files at `C:\python3`. Before using you need to add `C:\python3` in your environmental variables
-|![Environment variable](./img/path1.png)| ![Environment variable](./img/path2.png)|
-|--|--|
+
+| | |
+|---|---|
+|<img src="./img/path1.png" width="700" height="200">|<img src="./img/path2.png" width="700" height="200">|
 
 > How to Install Pip on Python?
 
