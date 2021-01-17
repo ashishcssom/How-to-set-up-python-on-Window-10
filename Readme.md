@@ -5,8 +5,8 @@
 > What need to download?
 1. python
 
-   Download portable python from following link [python 3.8.7](https://www.python.org/ftp/python/3.8.7/python-3.8.7-embed-amd64.zip). Python 3.8.7 is personal preferrence. You can download any embeddale python version.
-   ![python 3.8.7](./img/pythonLink.png)
+   Download portable python from following link [python 3.8.7](https://www.python.org/ftp/python/3.8.7/python-3.8.7-embed-amd64.zip). Python 3.8.7 is personal preferrence. You can download any embeddable python version.
+   [![python 3.8.7](./img/pythonLink.png)](https://www.python.org/ftp/python/3.8.7/python-3.8.7-embed-amd64.zip)
 
 
 2. VS Code 
