@@ -19,7 +19,7 @@ To install it on your windows system, you just have to extract [it](https://www.
 
 | | |
 |---|---|
-|<img src="./img/path1.png" width="700" height="200">|<img src="./img/path2.png" width="700" height="200">|
+|<img src="./img/path1.PNG" width="700" height="200">|<img src="./img/path2.PNG" width="700" height="200">|
 
 > How to Install Pip on Python?
 
