@@ -24,7 +24,7 @@ To install it on your windows system, you just have to extract [it](https://www.
 
 > How to Install Pip on Python?
 
--  VisualInstalling pip in your embedded python is easy. First, you just have to edit the python39._pth file inside your python directory. Then add Lib/site-packages on the top, then uncomment the import site
+-  Installing pip in your embedded python is easy. First, you just have to edit the python39._pth file inside your python directory. Then add Lib/site-packages on the top, then uncomment the import site
 ```python
 Lib/site-packages
 python37.zip
